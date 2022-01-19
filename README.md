@@ -1,2 +1,2 @@
-# bifrost-client
-Bifrost client for react native
+# munchies-client
+Munchies client for react native
